@@ -1,23 +1,10 @@
+.imagem{
+width: 70%;
 
-*{margin: 0;
-    padding: 0;
-   font-family: 'Poppins', sans-serif;
-  }
- .cabeçalho{
-   background-color: rgb(40, 40, 199);
-   color: rgb(156, 226, 43);
- display: flex;
- justify-content:space-around;
- align-items: center;
- padding: 24px  0; 
- }
- 
- .cabeçalho-cabeçalho{
-     width:20%;
- }
- .cabeçalho-lista-item{
- display: inline-block;
- margin: 0 16pix;
- font-size: 24pix;
- font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
- }
+
+}
+*{background-color: cadetblue;}
+.titulo{
+text-align: center;
+font-size: 200%;
+}
